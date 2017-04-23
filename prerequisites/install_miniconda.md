@@ -1,6 +1,6 @@
-Miniconda2 Installation 
+**Miniconda2 Installation** 
 
-MacOS:
+**MacOS:**
 
 If you are new in Mac OS X but are experienced in Linux, you will be happy to use the Terminal in a way quite similar to Ubuntu; but first, you will have to spend two or three hours installing the basics.
 
@@ -56,7 +56,7 @@ You should install the following packages respecting the order in the list.
 12. To exit the miniconda environment write
 	~]$ source deactivate 	
   
-Linux
+**Linux**
 
 The installation steps for a Linux based system are basically the same as the steps from 4 to 12, i.e.  you don’t have to install xcode,
 maybe you will need the develop tools corresponding to your linux OS (check https://www.garron.me/en/go2linux/gnu-gcc-development-tools-linux-fedora-arch-debian.html), 
