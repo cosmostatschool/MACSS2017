@@ -29,4 +29,4 @@
   emcee http://dan.iel.fm/emcee/current/
   
   
-  https://arxiv.org/pdf/1510.00271.pdf
+  Harker et. al 2015 (https://arxiv.org/pdf/1510.00271.pdf)
