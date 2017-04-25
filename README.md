@@ -1,6 +1,8 @@
 # MACSS2017
 A repository for the contents of MACSS2017
 
+#GitHub Tutorial
+
 Before you star using Github, you must be sure you have Git installed on your system. to check if you have Git, open the terminal en type
 
 $ git --help
