@@ -1,5 +1,7 @@
 # MACSS2017
-A repository for the contents of MACSS2017
+A repository for the contents of MACSS2017. To download the repository just click on the  Download green button. 
+
+If you want to clone the repository to your computer using git follow the tutorial below.  
 
 # GitHub Tutorial
 
@@ -21,8 +23,7 @@ and copy the output.
 Go to your GitHub account setting and click the SSH and GPG Keys option. There add
 a new ssh key by pasting the contents of id_rsa.pub.
 
-To download the repository click on the Clone or download green button. Copy the
-url that appears in the little box (be sure is the ssh url).
+Click on the Clone and copy the url that appears in the little box (be sure is the ssh url).
 
 In your terminal type
 
