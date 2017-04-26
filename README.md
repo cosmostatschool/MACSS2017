@@ -11,6 +11,9 @@ if and errors appears it means that you have to install git.
 
 To install git follow the instructions in here: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
+If you are planning on making commits to this repository, please read the next;
+if not, please skip to **
+
 To have this repository locally on your computer first you have to make an account.
 After that, open your terminal and type:
 
@@ -24,9 +27,10 @@ a new ssh key by pasting the contents of id_rsa.pub.
 To download the repository click on the Clone or download green button. Copy the
 url that appears in the little box (be sure is the ssh url).
 
+**
 In your terminal type
-
-$ git clone git@github.com:cosmostatschool/MACSS2017.git
+$ git clone https://github.com/cosmostatschool/MACSS2017.git
+$ git clone git@github.com:cosmostatschool/MACSS2017.git (this is only for ssh user)
 
 this will create a folder named MACSS2017 on your computer.    
 
