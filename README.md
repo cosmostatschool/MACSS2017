@@ -29,7 +29,9 @@ url that appears in the little box (be sure is the ssh url).
 
 **
 In your terminal type
+
 $ git clone https://github.com/cosmostatschool/MACSS2017.git
+
 $ git clone git@github.com:cosmostatschool/MACSS2017.git (this is only for ssh user)
 
 this will create a folder named MACSS2017 on your computer.    
