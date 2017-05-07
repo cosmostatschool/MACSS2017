@@ -6,15 +6,25 @@
   (CosmoMC comes with CAMB and I want the students to implement the MG files so this doesn’t need to be ‘installed’ only downloaded)
 
   **Participants**
+  
   Gabriela Bárcenas
+  
   Bryan Sagredo
+  
   Cristhian García
+  
   Juan Carlos Ruelas Vázquez
+  
   Juan Flores 
+  
   César Hernández Aguayo
+  
   Francisco Linares
+  
   Rebeca Martínez Carrillo
+
   Cynthia Cotto Parraguirre
+
 
 
 
@@ -34,14 +44,23 @@
   Zu and Mandelbaum 2016 (http://adsabs.harvard.edu/abs/2016MNRAS.457.4360Z)
   
   **Participants**
+  
   José CarlosCarvajal García
+  
   Hiram Kalid Herrera Alcantar
+  
   Osvaldo Rosales Pérez
+  
   Gabriel Karim Miranda Carrion
+  
   Mariana Jaber
+  
   Oleg Burgueño Gerardo
+  
   Fidel Sosa Nuñez
+  
   Brenda Izamar Tapia Benavies
+  
   Jorge Luz
 
 
@@ -59,11 +78,18 @@
   
   Participants: 
   José Abraham Arvizu Valenzuela
+  
   David Florencia Cruz
+  
   Pablo Andrés Lizardo Romo
+  
   Hector Rios Hernandez
+  
   ALEJANDRA GUTIÉRREZ AGUIRRE
+  
   Josué Ely Molina Becerra
+  
   Elizabeth Moreno Hilario
+  
   Iliana Mairen Fernández-Roldán
 
