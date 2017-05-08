@@ -26,6 +26,7 @@
   Cynthia Cotto Parraguirre
 
 
+#############################
 
 
 
@@ -63,6 +64,7 @@
   
   Jorge Luz
 
+#############################
 
 
 **Project 3: 21-cm Cosmology**
